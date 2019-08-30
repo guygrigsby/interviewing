@@ -1,4 +1,4 @@
-# Interviewing
+# Developer
 
 ## Design
 What to look for (Level based)
@@ -47,3 +47,30 @@ Look for:
 - Tell me about an idea you had that improved the company in some way. How did you get it implemented?
 - Tell me about an idea you had that got a lot of resistance from the team. What happened? Did your idea win?
 
+# SDET
+
+## Coding questions from Dev section
+
+## Basics
+- Threads
+  - mutexes / semaphores
+  - communication between
+    - race conditions
+    - shared memory
+
+## Testing
+
+### Networking
+- HTTP Methods and uses
+- UDP/TCP
+
+### Frameworks
+- Used, liked, disliked
+- Feelings on manual testing
+
+### Types of testing
+- Experience with
+- Known, but not used (why not used?)
+
+## Competencies
+- Talk about a time that there was a conflict with dev. How was it resolved?
