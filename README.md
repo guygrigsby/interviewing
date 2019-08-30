@@ -20,6 +20,17 @@ Senior:
 
 
 ### The Bitly question
+Design bitly. Detail should increase as level of position increases. All higher positions include requirements for lower
+eng1-eng2 (may or may not apply)
+  - hash
+  - endpoints
+  - db
+eng3
+  - 
+eng4
+  -
+eng5+
+ -
 
 ### Facebook image processing
 
@@ -49,7 +60,8 @@ Look for:
 
 # SDET
 
-## Coding questions from Dev section
+## Coding questions
+See above
 
 ## Basics
 - Threads
