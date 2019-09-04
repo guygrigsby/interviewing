@@ -26,11 +26,8 @@ Design bitly. Detail should increase as level of position increases. All higher 
    - endpoints
    - db
  - eng3
-   - 
  - eng4
-   -
  - eng5+
-   -
 
 ### Facebook image processing
 
