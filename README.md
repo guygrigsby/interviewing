@@ -1,6 +1,28 @@
 # Developer
 
+## Coding
+
+### Palindrome
+pretty easy
+
+### Add all elements in an array
+
+### Numeric complement
+Given an array of integers, return an array of values where the original array contained both the integer and it's complement.
+Example:
+```
+Input: [1,2,9,-1,-9]
+Output: [1,9]
+```
+Look for:
+- edge cases
+- not necessarily best, but iterative solution
+- time complexity
+- space complexity
+
+
 ## Design
+
 What to look for (Level based)
 Junior: (Flexible based on experience, not sure entry level will know much design at all)
 - Basic components (Front end, API, Backend) 
@@ -31,22 +53,6 @@ Design bitly. Detail should increase as level of position increases. All higher 
 
 ### Facebook image processing
 
-## Coding
-### Palindrome
-
-### Numeric complement
-Given an array of integers, return an array of values where the original array contained both the integer and it's complement.
-Example:
-```
-Input: [1,2,9,-1,-9]
-Output: [1,9]
-```
-Look for:
-- edge cases
-- not necessarily best, but iterative solution
-- time complexity
-- space complexity
-
 ## Competencies
 
 ### Leadership
@@ -54,6 +60,7 @@ Look for:
 - Tell me about a time that your org experienced a lot of churn. How did you handle it?
 - Tell me about an idea you had that improved the company in some way. How did you get it implemented?
 - Tell me about an idea you had that got a lot of resistance from the team. What happened? Did your idea win?
+- Talk about a time that there was a conflict with dev. How was it resolved?
 
 # SDET
 
