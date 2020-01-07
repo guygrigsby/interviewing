@@ -3,7 +3,7 @@
 ## Coding
 
 ### Palindrome
-pretty easy
+ - Work from both ends
 
 ### Add all elements in an array
 
@@ -20,6 +20,7 @@ Look for:
 - time complexity
 - space complexity
 
+### Breadth/Depth first search of binary tree / graph
 
 ## Design
 
@@ -51,7 +52,12 @@ Design bitly. Detail should increase as level of position increases. All higher 
  - eng4
  - eng5+
 
-### Facebook image processing
+### Image processing
+Design a feature where a user uploads a photo and we respond to them immediately, but have to perform some async image processing.
+
+### Prize for nth user
+Say we are setting up a prize for our 1 millionth user of $1 million dollars. Design a system that can accurately identify that user with certainty.
+
 
 ## Competencies
 
